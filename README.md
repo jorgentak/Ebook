@@ -17,8 +17,8 @@ Ação	prompt para gerar o título:
 Crie um título de ebook sobre o tema databricks na área de pessoas, o ebook e do tema de ferramentas e o subnicho e de área de pessoas, o título deve ser curto e tenha uma temática de Airton Senna, me liste 5 variações de títulos.  
 Conteúdo gerado via ChatGPT e também pelo Gamma APP.
 
-Midjourney e Gamma：
-Imagens geradas via MidJourney e pelo Gamma APP.
+Midjourney e Gamma APP：
+Como o link https://www.midjourney.com/home não tinha a versão beta para clicar, e pelo acesso não consegui gerar a imagem, esta foi capturado de já gerada no midjourney e também do Gamma APP.
 
 📚 Materiais
 Imagens utilizadas via google free para não ter problemas de direitos autorais. Exemplo: logo do databricks.
