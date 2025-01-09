@@ -9,8 +9,8 @@ Projeto com o objetivo de gerar um Ebook com as facilidades das ferramentas de I
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
 - [Gamma App](https://gamma.app/)
-- [Power Point]
-🧠 Prompts
+- Power Point
+- 🧠 Prompts
 
 ChatGPT:
 Ação	prompt para gerar o título:
@@ -19,6 +19,7 @@ Conteúdo gerado via ChatGPT e também pelo Gamma APP com o prompt utilizado no 
 
 Midjourney e Gamma APP：
 Como o link https://www.midjourney.com/home não tinha a versão beta para clicar, e pelo acesso não consegui gerar a imagem, esta foi capturado de uma já gerada no midjourney.
+Imagem do databricks capturado via google que era free para não ter problemas com direitos autorais.
 
 
 ## ✨ Como foi feito ?
